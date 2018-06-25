@@ -1,6 +1,6 @@
 /*
  * Author: Wanjawa W. B. <wanjawawb@gmail.com>
- * Date: 26-May-2018
+ * Date: 25-Jun-2018
  * Description: Script to create user defined grid size, then select colors to mark the grid squares 
  *              works along with HTML and CSS
  * Purpose: Udacity project for Front End Web Development course
