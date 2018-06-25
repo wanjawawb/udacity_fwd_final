@@ -15,7 +15,13 @@ This is JavaScript code that lets a user create a grid of squares or dynamic row
 8. License
 
 ## Installation: 
-To install, just copy the 4 project files on the same folder, and it is ready for use
+To install, just copy the 4 project files on the same folder, and it is ready for use.  These files are:
+```
+designs.js
+index.html
+README.md
+styles.css
+```
 
 ## Usage: 
 To use the art maker, just open the
