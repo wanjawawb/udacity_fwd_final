@@ -18,7 +18,11 @@ This is JavaScript code that lets a user create a grid of squares or dynamic row
 To install, just copy the 4 project files on the same folder, and it is ready for use
 
 ## Usage: 
-To use the art maker, just open the index.html file on a web browser
+To use the art maker, just open the
+```
+index.html 
+```
+file on a web browser
 
 ## Contributing: 
 This was a course project. However, contributions are welcome for further enhancements by communicating to the author
