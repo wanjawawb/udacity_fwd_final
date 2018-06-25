@@ -1,4 +1,3 @@
-# udacity_fwd_final
 ## Project name: 
 Pixel Art Maker
 
