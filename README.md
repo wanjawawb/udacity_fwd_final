@@ -6,14 +6,14 @@ Pixel Art Maker
 This is JavaScript code that lets a user create a grid of squares or dynamic row,col setting, then applies colors of choice to the created squares to create a user designed artwork
 
 ## Table of Contents:
-1.Project name
-2.Description
-3.Table of Contents
-4.Installation
-5.Usage
-6.Contributing
-7.Credits
-8.License
+1. Project name
+2. Description
+3. Table of Contents
+4. Installation
+5. Usage
+6. Contributing
+7. Credits
+8. License
 
 ## Installation: 
 To install, just copy the 4 project files on the same folder, and it is ready for use
